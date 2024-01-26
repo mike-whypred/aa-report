@@ -1,0 +1,53 @@
+asset,asset_name,symbol,index,asset_class
+USDJPY,USDJPY,USDJPY,1,FX
+EURUSD,EURUSD,EURUSD,2,FX
+GBPUSD,GBPUSD,GBPUSD,3,FX
+AUDUSD,AUDUSD,AUDUSD,4,FX
+S&P500,S&P 500,GSPC,5,Equities
+NASDAQ,Nasdaq,IXIC,6,Equities
+RUSSELL,Russell 2000,RUT,7,Equities
+VALUE,Value Stocks,SPYV,8,Equities
+GROWTH,Growth Stocks,SPYG,9,Equities
+MOMENTUM,Momentum Stocks,MMTM,10,Equities
+QUALITY,Quality Stocks,QUAL,11,Equities
+VIX,VIX,VIX,12,Equities
+DISCRETIONARY,S&P Consumer Discretionary,XLY,13,Equities
+STAPLES,S&P Consumer Staples,XLP,14,Equities
+ENERGY,S&P Energy,XLE,15,Equities
+FINANCIALS,S&P Financials,XLF,16,Equities
+HEALTHCARE,S&P Health Care,XLV,17,Equities
+INDUSTRIAL,S&P Industrials,XLI,18,Equities
+MATERIALS,S&P Materials,XLB,19,Equities
+REALESTATE,S&P Real Estate,XLRE,20,Equities
+TECHNOLOGY,S&P Technology,XLK,21,Equities
+UTILITIES,S&P Utilities,XLU,22,Equities
+COMMUNICATION,S&P Communication Services,XLC,23,Equities
+DM,Developed Markets,VWO,24,Equities
+EM,Emerging Markets,VEA,25,Equities
+BONDS,Global Bonds,BNDW,26,Fixed Income
+UST2Y,US 2Y T-bond,DGS2,27,Fixed Income
+UST5Y,US 5Y T-bond,DGS5,28,Fixed Income
+UST10Y,US 10Y T-bond,DGS10,29,Fixed Income
+USBEI5Y,US 5Y BEI,T10YIE,30,Fixed Income
+USBEI10Y,US 10Y BEI,T5YIE,31,Fixed Income
+USCS,US Credit Spreads,BAMLC0A4CBBB,32,Fixed Income
+GOLD,Gold,GLD,33,Commodities
+SILVER,Silver,SLV,34,Commodities
+WTI,WTI,USO,35,Commodities
+BRENT,Brent,BNO,36,Commodities
+SP5NDQ,S&P500 vs  Nasdaq,GSPC | IXIC,37,Spreads
+SP5R2000,S&P500 vs Russell 2000,GSPC | RUT,38,Spreads
+VALGROW,Value vs Growth,SPYV | SPYG,39,Spreads
+VALMOM,Value vs Momentum,SPYV | MTMM,40,Spreads
+VALQUAL,Value vs Quality,SPYV | QUAL,41,Spreads
+DMEM,DM vs  EM Equities,VWO | WEA,42,Spreads
+DMBONDS,DM Equities vs DM Bonds,VWO | BNDW,43,Spreads
+UST2UST10,US2Y 10Y Spread,UST2Y | UST10Y,44,Spreads
+USREAL5,US 5Y Real Yield,UST5Y | USBEI5Y,45,Spreads
+USREAL10,US 10Y Real Yield,UST10Y | USBEI10Y,46,Spreads
+AUAG,Gold vs Silver,GLD | SLV,47,Spreads
+OILWOILB,WTI vs Brent,USO | BNO,48,Spreads
+BTCUSD,Bitcoin,BTCUSD,49,Cryptocurrency
+ETHUSD,Ethereum,ETHUSD,50,Cryptocurrency
+XRPUSD,Ripple,XRPUSD,51,Cryptocurrency
+SOLUSD,Solana,SOLUSD,52,Cryptocurrency
